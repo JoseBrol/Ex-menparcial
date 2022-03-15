@@ -15,9 +15,15 @@ Aprender sobre un ciclo while
 Para mi fue un gusto poder conocer y trabajar con @DaniGV33
 
 A lo largo de estos casi 3 meses he podido hacer diferentes actividades, como lo son:
-- Hacer nuevos amigos
-- Conocer a los ingenieros
-- Ver como se trabaja en la Universidad y conocerla
-- Conocer los beneficios de la carrera de informática y sistemas 
-- etc
+1. Hacer nuevos amigos
+2. Conocer a los ingenieros
+3. Ver como se trabaja en la Universidad y conocerla
+4. Conocer los beneficios de la carrera de informática y sistemas 
+5. Los cursos que llevo
+- Programación
+- Matemáticas
+- Intro a la ingeniería
+- Química
+- Razonamiento
+- Comunicación
 
